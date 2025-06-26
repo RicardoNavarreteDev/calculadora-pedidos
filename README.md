@@ -99,6 +99,8 @@ En nuestro proyecto, usamos un mock de `DescuentoRepository` para controlar qué
 
 ---
 ##❓ Preguntas frecuentes
+
+
 ¿Qué te ayuda a identificar las pruebas unitarias?
 Las pruebas unitarias me ayudan a asegurar que cada parte pequeña del código (como un método o función) haga exactamente lo que debe hacer. Si algo cambia y rompe esa parte, la prueba falla y me avisa rápido, evitando que un error llegue a producción.
 
